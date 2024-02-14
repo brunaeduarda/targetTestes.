@@ -32,7 +32,7 @@ def analisar_faturamento_anual():
 
     if dias_com_faturamento:
         media_anual = sum(dias_com_faturamento) / len(dias_com_faturamento)
-        print(f"Media anual: {media_anual}")
+        print(f"Media anual: R${media_anual:.2f}")
     else:
         media_anual = 0
 
@@ -47,6 +47,6 @@ if __name__ == "__main__":
 
     menor, maior, acima_media = analisar_faturamento_anual()
 
-    print(f"Menor valor de faturamento diário: {menor}")
-    print(f"Maior valor de faturamento diário; {maior}")
+    print(f"Menor valor de faturamento diário: R$ {menor:.2f}")
+    print(f"Maior valor de faturamento diário; R${maior:.2f}")
     print(f"Dias com faturamento acima da média: {acima_media}")
