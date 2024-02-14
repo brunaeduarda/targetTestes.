@@ -4,7 +4,8 @@ Nesse repositório você encontrará as soluções dos desafios propostos no rec
 
 Soluções dos problemas que foram dados.
 
-# resultadoSoma
+# resultadoSoma https://github.com/brunaeduarda/targetTestes./blob/main/resultadoSoma.py
+
 
 
 
