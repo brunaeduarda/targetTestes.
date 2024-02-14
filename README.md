@@ -2,9 +2,12 @@
 
 Nesse repositório você encontrará as soluções dos desafios propostos no recrutamento. A linguagem utilizada para realizar o desafio foi Python.
 
-Soluções dos problemas que foram dados.
+Teste 1: No arquivo resultadoSoma.
+Teste 2: No arquivo fibonacci.
+Teste 3: No arquivo estatisticasDeVenda.
+Teste 4: No arquivo percentual.
+Teste 5: No arquivo invertido.
 
-# resultadoSoma https://github.com/brunaeduarda/targetTestes./blob/main/resultadoSoma.py
 
 
 
